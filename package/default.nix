@@ -36,5 +36,6 @@
     cmake
     dig
     nil
+    podman
   ];
 }
