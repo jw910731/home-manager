@@ -35,5 +35,6 @@
     clang
     cmake
     dig
+    nil
   ];
 }
