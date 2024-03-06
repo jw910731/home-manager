@@ -3,6 +3,7 @@
   imports = [
     ./xsession
     ./fcitx5
+    ./podman
     ./git.nix
     ./gpg.nix
     ./zsh
@@ -37,5 +38,7 @@
     dig
     nil
     podman
+    podman-compose
+    docker-compose
   ];
 }
