@@ -40,5 +40,9 @@
     podman
     podman-compose
     docker-compose
+    kubectl
+    kubectx
+    kubernetes-helm
+    kustomize
   ];
 }
