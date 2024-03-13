@@ -34,6 +34,7 @@
     zip
     unzip
     clang
+    llvm
     cmake
     dig
     nil
@@ -44,5 +45,7 @@
     kubectx
     kubernetes-helm
     kustomize
+    gdb
+    lldb
   ];
 }
