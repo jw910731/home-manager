@@ -47,5 +47,7 @@
     kustomize
     gdb
     lldb
+    jq
+    krew
   ];
 }
